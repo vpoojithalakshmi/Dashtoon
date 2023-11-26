@@ -1,0 +1,58 @@
+.comic-form {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-family: 'Arial', sans-serif; /* Add your preferred font family here */
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    font-family: 'Georgia', serif; /* Add your preferred font family here */
+  }
+  
+  .comic-form-panel {
+    margin-bottom: 15px;
+  }
+  
+  .first-panel {
+    height: 120px; /* Adjust the height to accommodate a name */
+  }
+  
+  label {
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'Cursive', sans-serif; /* Add your preferred font family here */
+  }
+  
+  textarea {
+    width: 200%;
+    height: 80px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 8px;
+    font-size: 14px;
+  }
+  
+  button {
+    display: block;
+    width: 50%;
+    padding: 10px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+    align-items: center;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
